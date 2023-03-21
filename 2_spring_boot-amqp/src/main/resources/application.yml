@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    # Alternatively you can use the below.
+    #spring.rabbitmq.addresses=amqp://guest:guest@localhost
