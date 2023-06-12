@@ -42,6 +42,7 @@
 - **Routing Key Pattern** – It is the routing key pattern that binds a specific Queue with an Exchange.
 - **Valid Routing Key** – The message with this key reaches the linked Queue.
 - **Invalid Routing Key** – The message with this key does not reach the Queue.
+- 
 
 |Routing Key Pattern    	      |Valid Routing Key      	  |Invalid Routing Key          |
 | ------------------------------- | ------------------------- | --------------------------- |
